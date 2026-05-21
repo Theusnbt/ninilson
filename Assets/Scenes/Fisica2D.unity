@@ -1726,10 +1726,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2131806718}
+  - component: {fileID: 2131806721}
   - component: {fileID: 2131806717}
   - component: {fileID: 2131806720}
   - component: {fileID: 2131806719}
-  - component: {fileID: 2131806721}
   m_Layer: 0
   m_Name: Personagem
   m_TagString: Untagged
